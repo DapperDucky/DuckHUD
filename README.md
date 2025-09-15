@@ -13,7 +13,7 @@ A minimalistic Heads Up Display for Dual Universe
 
 ## Overview
 
-DuckHUD is a minimalistic general purpose heads up display with a focus on providing useful and easy to digest information and functionality without overwhelming the pilot's screen or the game's performance.
+DuckHUD is a minimalistic general purpose heads up display with a focus on providing useful, easy to digest information and functionality without overwhelming the pilot's screen or the game's performance.
 
 [Buy me a coffee I can turn into code](buymeacoffee.com/DapperDucky)
 
@@ -26,7 +26,7 @@ To install and use DuckHUD:
 1. Apply the configuration to the control unit in game
    + This can be done by using the control units in-game menu and navigating to ```Advanced > Run Custom Autoconfigure``` and selecting DuckHud from the list
 
-To get the most out of the HUD the construct should a gyroscope. (***Note:** How a gyroscope is placed on a construct matters. It should be oriented the same as the core to ensure correct avionics*)
+To get the most out of the HUD the construct should have a gyroscope. (***Note:** How a gyroscope is placed on a construct matters. It should be oriented the same as the core to ensure correct avionics*)
 
 
 ## Custom Controls
