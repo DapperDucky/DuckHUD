@@ -28,7 +28,6 @@ To install and use DuckHUD:
 
 To get the most out of the HUD the construct should have a gyroscope. (***Note:** How a gyroscope is placed on a construct matters. It should be oriented the same as the core to ensure correct avionics*)
 
-
 ## Custom Controls
 
 + Select next custom destination: Press ```ALT+1```
