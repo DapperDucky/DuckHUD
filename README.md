@@ -15,7 +15,7 @@ A minimalistic Heads Up Display for Dual Universe
 
 DuckHUD is a minimalistic general purpose heads up display with a focus on providing useful, easy to digest information and functionality without overwhelming the pilot's screen or the game's performance.
 
-[Buy me a coffee I can turn into code](buymeacoffee.com/DapperDucky)
+[Buy me a coffee I can turn into code](https://buymeacoffee.com/dapperducky)
 
 ## Installation
 
@@ -48,4 +48,4 @@ To get the most out of the HUD the construct should have a gyroscope. (***Note:*
 
 ## Support
 
-[Buy me a coffee I can turn into code](buymeacoffee.com/DapperDucky)
+[Buy me a coffee I can turn into code](https://buymeacoffee.com/dapperducky)
